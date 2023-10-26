@@ -6,8 +6,8 @@ Players can enjoy the fast-paced gameplay, trying to anticipate the ball's traje
 ### Instructions:
 Move Paddle by pressing and holding down keys 'W' and 'S'   
 
-Deployment Link: https://m-adil-as.github.io/Ping-Pong
+Deployment Link:https://github.com/Shahjad12/MynewRepository.git
 
-Demo Video:
 
-https://user-images.githubusercontent.com/115668271/196819768-41cd8031-a746-4882-9c24-ca3a0bdb0b1c.mp4
+
+
